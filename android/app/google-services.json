@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181531679465",
+    "project_id": "helical-sanctum-87915",
+    "storage_bucket": "helical-sanctum-87915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181531679465:android:e2f92682421b007ff8ae78",
+        "android_client_info": {
+          "package_name": "HusseinMichelle.paytogo.paytogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJ6B8dsPMrKvPbeVGdlIiCPaeexGcK_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
